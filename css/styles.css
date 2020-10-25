@@ -1,0 +1,194 @@
+
+body {
+     margin :0;
+     font-family: 'Montserrat-Black', sans-serif;
+     user-select: none;
+     -webkit-user-drag: none;
+}
+h1 {
+     font-family: 'Montserrat-Black', sans-serif;
+     font-size: 2.7rem;
+     line-height: 1.5;
+}
+
+a{
+     text-decoration: none;
+
+}
+a:hover{
+     color: #fff;
+}
+h2{
+     font-family: 'Montserrat-Black', sans-serif;
+     font-size: 2rem;
+     line-height: 2.2;
+}
+
+img{
+     border-radius: 7px;
+}
+
+.section {
+     background-color: #ff4c68;
+
+}
+
+.sachin {
+     padding:20px;
+     text-align: center;
+}
+
+.barry{
+     -webkit-user-drag: none;
+}
+
+.navbar {
+         padding: 5px 10px 3.5rem 16px;
+         height: 200px;
+}
+
+.navbar-brand{
+     font-family: 'Ubuntu', sans-serif;
+     font-size: 2.3rem;
+}
+
+.nav-item {
+      padding: 0 18px;
+}
+
+.nav-link {
+     font-size: 2rem;
+     font-family: 'Montserrat', sans-serif;
+}
+
+.heading {
+     font-family: 'Montserrat-Black', sans-serif;
+     font-size: 3rem;
+     font-weight: 700;
+     line-height: 1.6;
+}
+
+.container-fluid {
+     padding: 0 133px 133px 133px;
+}
+
+.second-container{
+     font-family: 'Montserrat-Black', sans-serif;
+     font-size: 2.5rem;
+     font-weight: 900;
+     color: #000;
+     padding-right: 0
+
+}
+
+.second-container-p{
+     font-family: 'Ubuntu', sans-serif;
+     font-size: 1.6rem;
+     color: #5b646c;
+
+}
+
+.cherry {
+     padding-left: 133px;
+}
+
+.gorri{
+     margin-bottom: 50px;
+}
+
+.second-container-img {
+     width: 100px;
+}
+
+.second-container-img:hover {
+     color:#fff;
+}
+
+.container-fluid .col-md-6 {
+     padding:0;
+}
+
+#testimonials {
+     padding: 0 ;
+     text-align:center;
+     background-color: #ef8172;
+     color: #fff;
+}
+.testimonials-img {
+     width: 400px;
+     border-radius: 50%;
+     margin: 2%;
+     background-color: #ef8172;
+}
+
+.carousel-item{
+     padding: 7% 15%
+}
+
+#press {
+     padding: 2%;
+     text-align:center;
+     color: #fff;
+     background-color:  #ef8172;
+}
+
+.sachin-image {
+     width: 120px;
+}
+
+.carousel-item {
+     background-color:  #ef8172;
+     text-align: center;
+}
+
+.card-deck  {
+     padding: 130px;
+}
+
+.shadow-lg {
+     border-radius: 50%;
+}
+
+#cta {
+     background-color: #ff4c68;
+     padding: 50px 0 110px;
+}
+
+.cta-h3{
+     text-align: center;
+     padding-top: 90px;
+     font-weight: 900;
+     font-style: 5rem;
+}
+
+#footer {
+     background-color: #fff;
+color: #6a6f7b;
+
+}
+
+.footer-p{
+     margin-bottom:0;
+     padding: 150px;
+     text-align: center;
+     padding-bottom: 55px;
+     padding-top: 100px;
+     text-decoration: none;
+     padding: 150px;
+     font-size: 1.3rem;
+     font-weight: 650;
+     letter-spacing: 1px;
+     color: #6a6f7b;
+
+}
+
+.footer-img {
+     width: 30px;
+     margin: 0 8px 8px 20px;
+}
+
+@media (max-width:700px) {
+     .tittle-img {
+          transform:rotate(0deg);
+     }
+}
